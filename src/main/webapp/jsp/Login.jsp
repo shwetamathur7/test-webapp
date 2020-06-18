@@ -8,7 +8,7 @@
 </head>
 <body>
 <h2>Login Here</h2>
-<form method = "post" action = "register">
+<form method = "post" action = "Welcome">
   <div class="container">
   <pre>
     <label for="uname"><b>Username</b></label>
